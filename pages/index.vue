@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        colinjbaxter
+        Colin J Baxter
       </h1>
       <h2 class="subtitle">
         Portfolio for Colin Baxter, UI Developer
